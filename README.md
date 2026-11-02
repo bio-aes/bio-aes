@@ -28,7 +28,6 @@ My goal is to bridge biology and data science to explore complex biological ques
 
 **Bioinformatics:** [BLAST] · [Biopython] · [NCBI] 
 
-**Other Tools:** [Git] · [GitHub] · [Linux]
 
 ## Areas of Interest
 
@@ -40,9 +39,7 @@ My goal is to bridge biology and data science to explore complex biological ques
 
 ## Connect With Me
 
-- **Email:** [Your email]
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub profile URL]
+- **Email:** ahlameshrem@gmail.com
 
 ---
 
